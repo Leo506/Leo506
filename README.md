@@ -1,9 +1,6 @@
 # Welcome to my github profile 👋. 
 ## I'm a .Net developer
 
-## 🔭 I’m currently working on [PostgresWebClient](https://github.com/Leo506/PostgreWebClient)
-This is a web program that should run in docker with a postgres container. It provides a simple web interface to work with a postgres database.
-
 
 ## Languages I worked with
 
